@@ -1,0 +1,2 @@
+rootProject.name = "Selector From a List"
+include ':app'

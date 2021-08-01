@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Selector From a List</string>
+    <string name="choose_a_language">Choose a Language</string>
+    <string name="show_selected">Show Selected</string>
+    <string name="java">Java</string>
+    <string name="cobol">Cobol</string>
+    <string name="pascal">Pascal</string>
+    <string name="was_selected">" was selected"</string>
+    <string name="no_language_was_selected">No language was selected!</string>
+</resources>
